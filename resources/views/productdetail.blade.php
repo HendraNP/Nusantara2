@@ -7,7 +7,7 @@
 
         <div class="flex flex-col md:flex-row gap-8 items-start">
             <div class="w-full md:w-1/2">
-                <img src="{{ asset('images/'.$product['image'])}}" alt="{{ $product['product_name'] }}" class="rounded shadow-md w-full object-contain">
+                <img src="{{ asset($product['image'])}}" alt="{{ $product['product_name'] }}" class="rounded shadow-md w-full object-contain">
             </div>
 
             <div class="w-full md:w-1/2">
