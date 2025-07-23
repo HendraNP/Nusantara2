@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>@yield('title', 'Your Site')</title>
+    <link rel="icon" href="{{ asset('images/favicon.ico') }}" type="image/x-icon">
+    <title>@yield('title', 'Nusantara Tech Innovation')</title>
     @stack('styles')
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
