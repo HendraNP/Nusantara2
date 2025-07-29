@@ -17,14 +17,13 @@
                 <div class="w-20 h-1 bg-indigo-600 rounded"></div>
 
                 <p class="text-gray-700 text-lg leading-relaxed">
-                    PT. Teknologi Warna Matahari Merah Indonesia adalah ekspansi dari Letong New Material Technology Co., Ltd., berbasis di Huzhou, Zhejiang – China, yang berdiri sejak 2012. Kami berfokus pada manufaktur cat, distribusi, serta jasa repair dan maintenance dengan tenaga profesional.
+                   PT. Nusantara Tech Innovation adalah perusahaan yang berfokus dalam menyediakan bahan baku cat berkualitas bagi industri manufaktur dan pengecatan. Dengan jaringan distribusi terpercaya dan pemahaman mendalam tentang formula serta kebutuhan pasar, kami mendukung para industri untuk menciptakan produk yang unggul dan tahan lama
                 </p>
                 <p class="text-gray-700 text-lg leading-relaxed">
-                    Produk kami mencakup cat dinding, cat epoxy lantai, cat anti korosi dan berbagai material pendukung pengecatan dengan brand 
-                    <span class="font-semibold text-indigo-700">MM Paint</span> dan <span class="font-semibold text-indigo-700">CM Paint</span>.
+                    Produk kami mencakup material pigmen warna, resin bahkan kuas ataupun paint roller.
                 </p>
                 <p class="text-gray-700 text-lg leading-relaxed">
-                    Kami berkomitmen menjadi mitra utama dalam industri cat dan pelapis di Indonesia, berorientasi pada inovasi, teknologi, dan kualitas, sekaligus mendukung keberlanjutan lingkungan.
+                    Fokus kami adalah memastikan setiap klien mendapatkan akses ke material yang konsisten, aman, dan sesuai standar, mulai dari resin, pigment, hingga aditif khusus. Bersama Nusantara Tech Innovation, kami membentuk sinergi yang memperkuat rantai pasokan dan inovasi dalam dunia pengecatan.
                 </p>
             </div>
         </div>
